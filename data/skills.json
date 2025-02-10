@@ -1,14 +1,14 @@
 [
     {
        "src": "./img/user.png",
-       "title": "Ejemplo1 Curso",
-       "desc": "Descripcion1 Curso",
-       "cat": "Categoria"
+       "title": "Leadership and Team Management",
+       "desc": "Learn how to lead and motivate a team to improve productivity",
+       "cat": "Leadership"
     },
     {
         "src": "./img/user.png",
-        "title": "Ejemplo2 Curso",
-        "desc": "Descripcion2 Curso",
-        "cat": "Categoria2"
+        "title": "Negotiation and Sales Techniques",
+        "desc": "Strategies to close deals and enhance commercial skills",
+        "cat": "Sales & Negotiation"
      }
 ]
