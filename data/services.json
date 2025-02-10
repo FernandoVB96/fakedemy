@@ -1,14 +1,14 @@
 [
     {
        "src": "./img/user.png",
-       "title": "Ejemplo Curso",
-       "desc": "Descripcion Curso",
-       "cat": "Categoria"
+       "title": "Office Suite for Businesses",
+       "desc": "A package of tools such as word processors, spreadsheets, and database programs",
+       "cat": "Office Solutions"
     },
     {
         "src": "./img/user.png",
-        "title": "Ejemplo2 Curso",
-        "desc": "Descripcion2 Curso",
-        "cat": "Categoria2"
+        "title": "Web Hosting and Cloud Computing",
+        "desc": "Solutions for storage and website hosting",
+        "cat": "Cloud & Hosting"
      }
 ]
