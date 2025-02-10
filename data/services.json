@@ -3,12 +3,12 @@
        "src": "./img/user.png",
        "title": "Office Suite for Businesses",
        "desc": "A package of tools such as word processors, spreadsheets, and database programs",
-       "cat": "Office Solutions"
+       "cat": "Office"
     },
     {
         "src": "./img/user.png",
         "title": "Web Hosting and Cloud Computing",
         "desc": "Solutions for storage and website hosting",
-        "cat": "Cloud and Hosting"
+        "cat": "Cloud"
      }
 ]
